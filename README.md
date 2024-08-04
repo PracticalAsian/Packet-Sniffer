@@ -5,7 +5,6 @@
 This is a basic Network Sniffer/Scanner where it will detect the devices on your network and prints the local IP address along the MAC address
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
 - Networking Fundamentals: Understanding of network protocols (TCP/IP, UDP, HTTP, etc.), IP addressing, and subnetting.
 - Socket Programming: Skills in creating and managing network connections, sending, and receiving data.
