@@ -1,9 +1,3 @@
-# Scanner
-These are basic scanners.
-
-They can check the number of devices connected to your network and print their local IP addresses along with their MAC addresses.
-
-
 # Packet Sniffer
 
 ## Objective
